@@ -89,6 +89,5 @@ Ayushi Nagpure
 
 💼 ServiceNow Certified Application Developer | Certified System Administrator
 
-🔗 LinkedIn
 
-💻 GitHub
+
